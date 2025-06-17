@@ -122,7 +122,7 @@ const StudentList = () => {
                 <td>
                   {student.picture ? (
                     <img
-                      src={`http://localhost:5000/${student.picture}`}
+                    src={`http://localhost:5000/uploads/${student.picture}`}
                       alt="Student"
                       width="60"
                       height="60"
