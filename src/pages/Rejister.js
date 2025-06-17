@@ -55,7 +55,7 @@ const StudentRegisterForm = () => {
                     className="btn btn-sm btn-primary m-2"
                     onClick={() => navigate('/')}
                   >
-                    Registation Form
+                   Student List
                   </button>
       <div className="card shadow-md">
         <div className="card-body">

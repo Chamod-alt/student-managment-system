@@ -87,7 +87,7 @@ const StudentList = () => {
 
   return (
     <div className="container mt-5">
-      <h2 className="mb-4 text-center">Registered Students</h2>
+      <h2 className="mb-4 text-center">Student List</h2>
       <button
                     className="btn btn-sm btn-primary m-2"
                     onClick={() => navigate('/register')}
