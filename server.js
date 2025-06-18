@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const studentRoutes = require("./routes/studentRoutes");
-const createStudentTable = require("./models/initModel"); // <- Import this
+const createStudentTable = require("./models/initModel"); 
 
 const app = express();
 const PORT = 5000;
