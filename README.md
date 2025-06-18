@@ -29,3 +29,11 @@ cd Student-login-System-frontend
 npm install
 npm start
 
+```
+### backend
+```bash
+cd firebase-db-setup
+npm install
+node app.js
+
+
